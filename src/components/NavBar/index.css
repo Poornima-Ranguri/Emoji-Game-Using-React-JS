@@ -1,0 +1,39 @@
+.app-container {
+  background-color: #ffffff33;
+  width: 100vw;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  margin: 12px;
+  height: 60px;
+}
+
+.text-hide {
+  display: none;
+}
+
+.text-show {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-right: 20px;
+}
+
+.para {
+  color: #ffffff;
+  font-family: 'Roboto';
+  padding: 15px;
+}
+
+.logo-text {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
